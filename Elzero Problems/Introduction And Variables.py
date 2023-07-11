@@ -19,4 +19,3 @@ print(type(myName))
 print(type(myAge))
 print(type(myCountry))
 print("-"*30)
-
